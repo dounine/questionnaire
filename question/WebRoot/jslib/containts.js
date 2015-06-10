@@ -1,0 +1,1 @@
+var isQuestionType=false;//是否是维度问题
